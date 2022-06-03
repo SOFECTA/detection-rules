@@ -2,8 +2,10 @@
 creation_date = "2020/09/02"
 maturity = "production"
 updated_date = "2022/05/23"
+customers = ['demo']
 
 [rule]
+enabled = false
 author = ["Elastic"]
 description = """
 Identifies a suspicious file that was written by a PDF reader application and subsequently executed. These processes are
