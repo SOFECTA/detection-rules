@@ -1,7 +1,7 @@
 jsl==0.2.4
 pytoml
 toml==0.10.0
-requests~=2.27
+requests~=2.32.0
 Click==7.0
 PyYAML~=5.3
 eql==0.9.12
